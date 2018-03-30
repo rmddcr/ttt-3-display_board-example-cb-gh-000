@@ -7,3 +7,5 @@ puts"-----------"
 puts"  |   |  "
 
 end
+
+display_board
